@@ -4,6 +4,7 @@ coded with Jupyter Notebooks
 
 Features:
 - Data Visualization
+- Data Wrangling
 - Implementation of a Gaussian Naive Bayes Classifier
 
 Technologies:
